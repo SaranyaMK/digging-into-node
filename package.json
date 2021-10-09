@@ -1,0 +1,26 @@
+{
+  "name": "node-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "get-stdin": "^9.0.0",
+    "minimist": "^1.2.5",
+    "utils": "^0.3.1"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomic-variable/node-experiments.git"
+  },
+  "author": "Atom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomic-variable/node-experiments/issues"
+  },
+  "homepage": "https://github.com/atomic-variable/node-experiments#readme"
+}
