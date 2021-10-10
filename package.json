@@ -4,6 +4,7 @@
   "description": "",
   "main": "test.js",
   "dependencies": {
+    "caf": "^7.0.6",
     "get-stdin": "^9.0.0",
     "minimist": "^1.2.5",
     "utils": "^0.3.1"
